@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.DbContextFactory.Before", "Example.DbContextFactory.Before\Example.DbContextFactory.Before.csproj", "{716D3E40-2B80-49F6-A23D-BE3A8CC1650C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.DbContextFactory.After", "Example.DbContextFactory.After\Example.DbContextFactory.After.csproj", "{0820C46C-9658-4490-8C59-49140315F970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{716D3E40-2B80-49F6-A23D-BE3A8CC1650C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716D3E40-2B80-49F6-A23D-BE3A8CC1650C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716D3E40-2B80-49F6-A23D-BE3A8CC1650C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716D3E40-2B80-49F6-A23D-BE3A8CC1650C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0820C46C-9658-4490-8C59-49140315F970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0820C46C-9658-4490-8C59-49140315F970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0820C46C-9658-4490-8C59-49140315F970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0820C46C-9658-4490-8C59-49140315F970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28E8A67A-5679-40A1-A495-CF9A24BFCA25}
+	EndGlobalSection
+EndGlobal
